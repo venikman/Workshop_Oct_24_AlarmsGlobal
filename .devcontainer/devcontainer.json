@@ -28,9 +28,6 @@
 		"ASPNETCORE_HTTP_PORTS":"10200",
 		"DOTNET_WATCH_SUPPRESS_BROWSER_REFRESH":"true"
 	},
-    "mounts": [ 
-		"source=${env:HOME}${env:USERPROFILE}/.aspnet/https,target=/home/vscode/.aspnet/https,type=bind",
-	 ],
    //  "postCreateCommand":  "./postbuild.sh",
 	// Configure tool-specific properties.
 	// "customizations": {},

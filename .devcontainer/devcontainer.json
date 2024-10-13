@@ -21,8 +21,8 @@
 			}
 	},
     "containerEnv": {
-		"ASPNETCORE_Kestrel__Certificates__Default__Password": "crypticpassword",
-		"ASPNETCORE_Kestrel__Certificates__Default__Path": "/home/vscode/.aspnet/https/aspnetapp.pfx",
+		//"ASPNETCORE_Kestrel__Certificates__Default__Password": "crypticpassword",
+		// "ASPNETCORE_Kestrel__Certificates__Default__Path": "/home/vscode/.aspnet/https/aspnetapp.pfx",
 		"ASPNETCORE_ENVIRONMENT":"Development",
 		"ASPNETCORE_HTTPS_PORTS":"10201",
 		"ASPNETCORE_HTTP_PORTS":"10200",
